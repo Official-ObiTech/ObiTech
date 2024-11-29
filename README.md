@@ -1,4 +1,4 @@
-<img src="ObiTec.png" alt="GitHub Banner" width="60%" height="300px" />
+<img src="ObiTec.png" alt="GitHub Banner" width="45%" height="300px" />
 
 # 💫 About Me:
 
